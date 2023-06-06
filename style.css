@@ -1,0 +1,241 @@
+.box {
+  width: 600px;
+  height: 300px;
+  padding: 20px;
+  margin: 100px auto;
+  box-shadow: 0px 0px 10px 2px grey;
+  background-image: url(bobtail.png);
+  background-size: cover;
+  float: right;
+}
+.box {
+  position: absolute;
+  top: 10px;
+  left: 600px;
+}
+h1 {
+  position: relative;
+  top: 5px;
+  left: 200px;
+}
+.text-box {
+  display: inline-block;
+  color: #fff;
+  background-image: linear-gradient(#1a6f8c,#63a59d);
+  width: 450px;
+  height: 200px;
+  padding: 20px;
+  margin: 100px auto;
+  box-shadow: 0px 0px 10px 2px grey;
+  background-size: cover;
+}
+.text-box{
+  position:absolute;
+  top: -50px;
+  left: -400px;
+}
+.Tagline {
+  display: inline-block;
+  color: #fff;
+  border-radius: 10px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 3px 15px;
+  font-family: quicksand;
+  font-size: 10px;
+  margin-left: 2px;
+}
+.header {
+  margin-top: 1;
+  margin-left: 20px;
+  font-family: Alegreya Sans SC;
+  font-weight: 700;
+  font-size: 30px;
+  transition: margin-left 2s linear;
+}
+.data {
+  font-family: Quicksand;
+  margin-left: 20px;
+  font-size: 20px;
+  transition: margin-left 2s linear;
+}
+.name {
+  transition: padding-left 2s linear,transform .2s ease-in-out;
+  padding-left: 22px;
+  top: 320px;
+}
+
+/*Biology Block Article 1 */
+.biology-block {
+  width: 300px;
+  height: 340px;
+  padding: 20px;
+  margin: 100px auto;
+  box-shadow: 0px 0px 10px 2px grey;
+  background-color: rgb(248, 248, 255);
+  background-size: cover;
+  float: right; 
+}
+.biology-block{
+  position: absolute;
+  top: 400px;
+  left: 200px;
+}
+.article1 {
+  float: right;
+  margin-top: 0;
+  color: gray;
+  font-weight: 700;
+  font-size: small;
+}
+.biology-heading {
+  font-family: Alegreya Sans SC;
+  font-size: 25px;
+  font-weight: 700;
+  overflow: hidden;
+}
+.biology-data {
+  font-size: 18px;
+  overflow: hidden;
+}
+.card{
+  margin-bottom: 0;
+}
+.biology-name {
+  color: gray;
+}
+.biology-date {
+  float: right;
+  margin-top: 0.25em;
+  color: gray;
+}
+.biology-image {
+  padding: 5px;
+  width: 100%;
+  min-height: -50%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  border-radius: 0 0 10px 10px;
+}
+
+
+/*Geology block Article 2*/
+.geology-block {
+  width: 300px;
+  height: 340px;
+  padding: 20px;
+  margin: 100px auto;
+  box-shadow: 0px 0px 10px 2px grey;
+  background-color: rgb(248, 248, 255);
+  background-size: cover;
+  float: right; 
+}
+.geology-block{
+  position: absolute;
+  top: 400px;
+  left: 600px;
+}
+.article2 {
+  float: right;
+  margin-top: 0;
+  color: gray;
+  font-weight: 700;
+  font-size: small;
+}
+.geology-heading {
+  font-family: Alegreya Sans SC;
+  font-size: 25px;
+  font-weight: 700;
+  overflow: hidden;
+}
+.geology-data {
+  font-size: 18px;
+  overflow: hidden;
+}
+.card{
+  margin-bottom: 0;
+}
+.geology-name {
+  color: gray;
+}
+.geology-date {
+  float: right;
+  margin-top: 0.25em;
+  color: gray;
+}
+.geology-image {
+  padding: 5px;
+  width: 100%;
+  min-height: -50%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  border-radius: 0 0 10px 10px;
+}
+
+
+/*Biology 2 block Article 3*/
+.biology2-block {
+  width: 300px;
+  height: 340px;
+  padding: 20px;
+  margin: 100px auto;
+  box-shadow: 0px 0px 10px 2px grey;
+  background-color: rgb(248, 248, 255);
+  background-size: cover;
+  float: right; 
+}
+.biology2-block{
+  position: absolute;
+  top: 400px;
+  left: 1000px;
+}
+.article3 {
+  float: right;
+  margin-top: 0;
+  color: gray;
+  font-weight: 700;
+  font-size: small;
+}
+.biology2-heading {
+  font-family: Alegreya Sans SC;
+  font-size: 25px;
+  font-weight: 700;
+  overflow: hidden;
+}
+.biology2-data {
+  font-size: 18px;
+  overflow: hidden;
+}
+.card{
+  margin-bottom: 0;
+}
+.biology2-name {
+  color: gray;
+}
+.biology2-date {
+  float: right;
+  margin-top: 0.25em;
+  color: gray;
+}
+.biology2-image {
+  padding: 5px;
+  width: 100%;
+  min-height: -50%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  border-radius: 0 0 10px 10px;
+}
+
+.maintag {
+  display: inline-block;
+  color: #fff;
+  width: fit-content;
+  padding: 3px 15px;
+  font-family: quicksand;
+  font-size: 10px;
+  margin-left: 2px;
+  border-radius: 10px;
+}
+
+
